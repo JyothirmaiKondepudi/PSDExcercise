@@ -1,1 +1,2 @@
-import numpy
+
+print("from python2")
